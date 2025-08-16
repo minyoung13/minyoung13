@@ -1,14 +1,16 @@
 <div align=center>
 <br>
-  
-![header](https://capsule-render.vercel.app/api?type=rect&text=Minyoung%20Park&fontAlign=50&fontAlignY=35&fontSize=40&desc=/*%20Interested%20in%20software%20development%20and%20cybersecurity%20*/&descAlignY=70&descAlign=50&theme=radical)
+<h3 align="center"><b> Introduction 👋 </b></h3>
+Hi, I'm interested in software development and cybersecurity.
 
+<br>
 <br>
 
 <h3 align="center"><b> PROFILE 📍 </b></h3>
   <a href="https://github.com/minyoung13" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <a href="https://www.linkedin.com/in/minyoung-park-03497b37a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  	
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=possibility13)](https://solved.ac/possibility13)
 <br>
 <br>
 
